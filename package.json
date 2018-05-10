@@ -1,6 +1,6 @@
 {
   "name": "noprom-passport-oauth2",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "description": "OAuth 2.0 authentication strategy for Passport.",
   "keywords": [
     "passport",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/noprom/passport-oauth2.git"
+    "url": "git+https://github.com/noprom/passport-oauth2.git"
   },
   "bugs": {
     "url": "http://github.com/noprom/passport-oauth2/issues"
